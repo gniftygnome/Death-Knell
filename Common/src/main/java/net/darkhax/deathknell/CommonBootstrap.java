@@ -44,8 +44,6 @@ public class CommonBootstrap {
 
     public static void init() {
 
-        ItemStack s;
-        s.getMaxDamage()
     }
 
     public static Component getCustomDeathMessage(Component original, CombatTracker tracker) {
