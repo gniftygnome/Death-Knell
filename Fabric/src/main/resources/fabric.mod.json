@@ -3,7 +3,7 @@
     "id": "deathknell",
     "version": "${version}",
   
-    "name": "Example Mod",
+    "name": "Death-Knell",
     "description": "Spice up dying in Minecraft with new player death messages.",
     "authors": [
       "Darkhax"
@@ -26,9 +26,9 @@
     ],
   
     "depends": {
-      "fabricloader": ">=0.11.3",
+      "fabricloader": ">=0.12.12",
       "fabric": "*",
-      "minecraft": "1.17.x",
-      "java": ">=16"
+      "minecraft": ">=1.18.1",
+      "java": ">=17"
     }
 } 
